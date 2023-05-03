@@ -1,7 +1,9 @@
 # OS_Lab
 
 this folder contains following problem codes:
+
 1.Write a program to write a name into a file and read it back 
+
 2.Use execvp command 
 3.Use execvp commands to rename ‘ls’ command by your name 
 4.Implement a hierarchy as shown below where third generation terminates first, followed by second, followed by first and then the parent 
