@@ -1,4 +1,6 @@
-Implement a hierarchy as shown below where third generation terminates first, followed by second, followed by first and then the parent 
+//Implement a hierarchy as shown below where third generation terminates first, followed by second, followed by first and then the parent 
+
+
 #include <stdio.h>
 #include <sys/wait.h> // for wait()
 #include <unistd.h> // for fork()
