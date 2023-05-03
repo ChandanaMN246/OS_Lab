@@ -33,3 +33,5 @@
 15.Page replacement algo
 
 16.Binary tree
+
+17.Best fit
