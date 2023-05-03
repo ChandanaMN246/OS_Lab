@@ -8,7 +8,7 @@
 
 3.Use execvp commands to rename ‘ls’ command by your name 
 
-4.Implement a hierarchy as shown below where third generation terminates first, followed by second, followed by first and then the parent 
+4.Implement a hierarchy as shown below where third generation terminates first, followed by second, followed by first and then the parent
 
 5. program to create 2 dissimilar functions and create 4 threads , where each is operated alternately
 
